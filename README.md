@@ -1,5 +1,5 @@
 ## hackerman linux st
-![st](st.png)
+![st](https://st.suckless.org/st.svg)
 This is a fork of [suckless st](https://st.suckless.org) made to accompany [dwm-hackerman](https://github.com/That1M8Head/dwm-hackerman).
 
 The only colours you get are black and two shades of green.
